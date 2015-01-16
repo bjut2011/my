@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wifi_platform/!svn/ver/780/code/wifiplatform/WebRoot/source/page/rom
+END
+upgrade_plan.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/wifi_platform/!svn/ver/780/code/wifiplatform/WebRoot/source/page/rom/upgrade_plan.jsp
+END
+upgrade_log.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/wifi_platform/!svn/ver/751/code/wifiplatform/WebRoot/source/page/rom/upgrade_log.jsp
+END
+lookApMessage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/wifi_platform/!svn/ver/751/code/wifiplatform/WebRoot/source/page/rom/lookApMessage.jsp
+END
+upgrade_log_detail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/wifi_platform/!svn/ver/774/code/wifiplatform/WebRoot/source/page/rom/upgrade_log_detail.jsp
+END

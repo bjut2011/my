@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/wifi_platform/!svn/ver/771/code/wifiplatform/src/com/sinosoft/rommanage/sqlmap
+END
+upGradePlan-sqlmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/wifi_platform/!svn/ver/771/code/wifiplatform/src/com/sinosoft/rommanage/sqlmap/upGradePlan-sqlmap.xml
+END
+upgradelog-sqlmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/wifi_platform/!svn/ver/771/code/wifiplatform/src/com/sinosoft/rommanage/sqlmap/upgradelog-sqlmap.xml
+END
